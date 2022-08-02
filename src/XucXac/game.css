@@ -1,0 +1,8 @@
+@font-face {
+    font-family: fontGame;
+    src: url("../assets/Pony.ttf");
+}
+
+.bg_game {
+    font-family: fontGame;
+}
